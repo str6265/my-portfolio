@@ -1,3 +1,4 @@
+"use client";
 import React, { useState, useEffect } from 'react';
 import { Gamepad2, MessageCircle, Zap, ShieldCheck, Users, ChevronRight, Menu, X, ExternalLink, Mic } from 'lucide-react';
 
